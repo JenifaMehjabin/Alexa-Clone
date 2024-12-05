@@ -1,0 +1,11 @@
+            - name: Serverless Deploy with Python Requirements
+  # You may pin to the exact commit or the version.
+  # uses: Jonasdart/actions.serverless-with-python-requirements@fb263df0fca4a8936caace6a25c3f06c0b953b3d
+  uses: Jonasdart/actions.serverless-with-python-requirements@2.0.1
+  with:
+    # Additional arguments you want to set for credentials configs
+    config_args: # optional, default is 
+    # Additional arguments you want to set for deploy command
+    deploy_args: # optional, default is 
+    
+          
