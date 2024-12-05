@@ -89,7 +89,7 @@ Feel free to fork the repository, create a pull request, and contribute to the p
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/JenifaMehjabin/Alexa-Clone/blob/master/LICENSE) file for details.
 
 ---
 
